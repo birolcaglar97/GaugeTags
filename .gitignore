@@ -1,0 +1,23 @@
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
+#project.iml files
+*.iml
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+/target
+/reports
+.gauge
+logs
+env
